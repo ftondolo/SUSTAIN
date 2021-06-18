@@ -1,0 +1,48 @@
+x
+Objects
+* Earth Badge (level 1)
+* Light badge (level 2)
+* Light switch (level 3)
+* Progress bar (time passing/ hours of light)
+* 3 different plants
+* Arrow icon
+gameObject.GetComponent<Renderer>().enabled = true; // show vs false = hide
+
+Level 1
+1. Welcome screen “Welcome to SUSTAIN, you are going to grow a plant!”
+2.  text on screen: “Choose your seed. You will start with just one, but later on you can unlock more” (2 options: Beauty Berry or Sansevieria Trifasciata—The Snake Plant)
+3.  Text on screen: “Now, choose your fertilizer” (2 options: nitrogen fertilizer or compost)
+4. Text on screen: “Now that you have chosen your seed and fertilizer, let’s get familiar with your garden’s features”
+5. Point to Sustainability Score: “This is where you can see your sustainability score. The score is on a 0-10 scale, 0 is bad and 10 is great.”
+6. Point to CO2: “This is where the amount of CO2 in the environment is displayed. We have started it at around 300ppm (parts per million). A healthy range is between 250-400ppm, but we’ll learn more about this later so don’t worry about it for now.”
+7. Point to temperature: “this is where you can see the temperature of the room. For now, it will moderate itself. You can unlock this later on by playing mini-games and gaining expertise in keeping your environment balanced. 
+8. Point to water, text on screen: “This is the total amount of water you have to water your plants”
+9. Point to water droplet next to pot, text on screen: “You use this button to give water to your plant. But be careful! If you water it too much, the plant will drown and if you water it too little, the plant will die. Make sure you give it a healthy amount of water. Press it now to water your plant!”
+10. User waters plant
+11. Text on screen: “Congratulations! You have earned your first badge: the Earth Badge.”
+12. Text on screen: “You can find your badges here!”
+13. Text on screen: “You can find your cacao beans here. You can use these to pay for decorations and other resources for your plants when you unlock them.”
+
+Level 2
+1. Three plants.
+2. Text on screen: “Welcome back! Now, you are ready to learn about how different light sources affect plant growth and the environment. Click here to start the minigame”
+3. Text on screen: “MINI GAME. You have been given a new temporary plant and environment. Try to make the plant grow as much as you can by only changing the light sources while keeping a good sustainability score.”
+4. Text on screen: “The results of this minigame will not affect your garden so play around and explore the different options!”
+5. Minigame:
+   1. New environment with plant, sustainability score, and 2 buttons on the left side with a light bulb in one and a sun in the other.
+   2. They tap on the buttons to “give the plant more light”
+      1. The lightbulb will make the plant grow faster but will decrease the sustainability score
+      2. The sunlight will not make the plant as fast but it will keep the sustainability score high.
+   3. “Final sustainability score: ____”
+   4. Text on screen: “As you may have noticed, the lightbulb will make your plants grow faster, but it is not always the most sustainable option.”
+6. Text on screen: “Now, you can choose a light source for your garden. You can either pay to rent a lightbulb for 15 cacao beans a day or you can choose to use natural light.”
+7. (give the player the choices and put in environment whichever they choose”
+8. Text on screen: “Congratulations! You just earned the Light Badge!”
+
+Level 3
+1. Text on screen: “Now that you have a light source for your plants, the heat from the light will affect the temperature of the room. Let’s see what happens when the temperature goes up…”
+2. Have them play for a little bit where the temp will go up and the water in each plant will go down (5-10 secs)
+3. Pause game, text on screen: “Oh no! Looks like adding a light source has some consequences. The temperature increases and heat is being trapped in the environment. This causes your plants to get thirsty faster.”
+4. Text on screen: “Artificial light uses electricity which contributes to CO2 emissions, so using a lightbulb will add CO2 to the environment and make the temperature increase more than natural light. But, the more a plant grows, the more CO2 it consumes...”
+5. Text on screen: “Without the greenhouse effect, the Earth would not be warm enough for humans to live. But if the greenhouse effect becomes stronger, it could make the Earth warmer than usual. Even a little extra warming may cause problems for humans, plants, and animals.”
+6. Text on screen: “We will now give you the ability to turn your light source on and off. Keep in mind: the longer you leave it on, the more your plants will grow but the hotter the temperature will get. If you leave it off for too long, your plants will start to die because they need light to survive. Good luck!”
