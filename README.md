@@ -1,5 +1,5 @@
 # SUSTAIN
-Final project for CMSC20900: Computers for Learning made with Caroline "Kiki" Apple and Camila Cuesta Arcentales
+Final project for CMSC20900: Computers for Learning made with Caroline Apple and Camila Arcentales.
 A Unity C# educational game designed to teach children ages 11-13 about sustainability.
 
 <details open="open">
