@@ -44,10 +44,13 @@ We set out to create a game which makes no preconceptions about its users and th
 ## Game Design
 For more information, the writeup contains far more in depth detail thamn this short description including hypothetical target users, the skillset the game is seeking to sharpen in its users, our efforts to craft culturally-relevant instruction, and the way the game motivates different kinds of players to engage in the learning experience whether they are more interestedd in accumulating rewards or badges (Collectors), those who are attracted by an engaging storyline (Storytellers), or simply those who like to see the world burn (Jokers) among many others.
 
+The game is a simulation where players are given control of a limited environment including the temperature, light exposure, and water levels of the plants stored therein and the responsibility is placed upon them to make the plants flourish while making sure their control is judicious by tasking them to keep in check other externalf factors such as C02 levels.  Water and light are importnat, yet moderation is key and one eventually starts receiving diminishing returns as the plants beegin to drown or dry out respectively. Excessive use of artificial lights also requires energy which comees at a cost: if C02 reaches dangerous levels in the enclosure thee plants will have no more Oxygen for photosynthesis yet the way different plants will react to this also varies. In a quest for balance users need to make cost conscientious decisions about the best ways to tend to their plants in the presnt without forgoing long-term stability.
+
 ### Learning Trajectory
 To try and teach our users these abstract concepts without alienating our rather young target age group we settled on a spiral learning trajectory. This learning method works as follows: after introducing a central concept, for instance the simple idea that actions have consequences, the game develops the idea by introducing new facets to it while also refreeshing and reviewing the tenet in each new "revolution" of the spiral as the breadth of the learning trajectory expands. Thusly working step-by-step the user is not flooded with nonrepresentational ideas which are hard to grasp but is rather guided through the formational components of the overarching theme of sustainability without making any logical leaps which may turn off the user from continuing to play.
 
 ### Levels
+The Game was split into three separate levels, each designed to introduce a new aspect of the game's environment to the player in logical progession to eventually populate the entire GUI.
 
 #### 1
 
