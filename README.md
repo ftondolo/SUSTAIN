@@ -52,10 +52,11 @@ To try and teach our users these abstract concepts without alienating our rather
 ### Levels
 The Game was split into three separate levels, each designed to introduce a new aspect of the game's environment to the player in logical progession to eventually populate the entire GUI.
 
-#### 1
-The simplest of the levels introduces the players to the game by planting their first plant. They are made to select a seed from a pre-seleected variety (with possibility for more seeds after completing the tutorial) of disparate locations around th world allowing not only for a level of customization but also for an opportunity to learn about different plant species.  Once a fertilizer is also selected between a more effective yet resource wasteful nitrogen-based variant and more basic compost the player is shown the main screen!  Here, the player is shown around the UI pointing out what each indicator on-screen is meant to rpresent and its importance. The level ends with the player gaining the Earth badge, commemorating the planting of their seed and giving them encouragement to keep playing on!
+#### 1:
+  - The simplest of the levels introduces the players to the game by planting their first plant. They are made to select a seed from a pre-seleected variety (with possibility for more seeds after completing the tutorial) of disparate locations around th world allowing not only for a level of customization but also for an opportunity to learn about different plant species.  Once a fertilizer is also selected between a more effective yet resource wasteful nitrogen-based variant and more basic compost the player is shown the main screen!  Here, the player is shown around the UI pointing out what each indicator on-screen is meant to rpresent and its importance. The level ends with the player gaining the Earth badge, commemorating the planting of their seed and giving them encouragement to keep playing on!
 
-#### 2
+#### 2:
+  - Now, one plant is all well and good but true sustainability is about weighing the needs of many individuals, to tend to one is  too simple an equation for the weight of one's actions to be effectively taught so the player is introduced to a mini-game environment with three different plants. Here, the effect of light sources in introduced by asking the user to make thir three plants grow as much as possible with the two light sources available to them. Sunlight will make their plants grow less quickly but will do so without impacting C02 levels. Artifical grow lights on th other hand will speed the process up with the side-effect of also increasing C02. At the end of the circa 30s mini-game the differece between these two light sources will have ben demonstrated to the players organically, without them having been fed thee information through lengthgy verbal descriptions (such as this one) and earning them the light badge!
 
 #### 3
 
